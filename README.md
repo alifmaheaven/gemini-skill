@@ -1,9 +1,10 @@
-# Koleksi Skill Gemini CLI
+# Gemini Custom Skills
 
-Repositori ini berisi kumpulan skill untuk memperluas kemampuan Gemini CLI.
+Kumpulan *custom skills* untuk meningkatkan kemampuan Gemini CLI.
 
 ## Daftar Skill
-- [[gemini-history/SKILL.md]] - Otomatisasi pencatatan riwayat aktivitas harian.
+- [gemini-history](./gemini-history/)
+- [system-monitor](./system-monitor/)
 
----
-*Dikelola secara otomatis.*
+## Alur Kerja
+Setiap evolusi skill di-push ke: https://github.com/alifmaheaven/gemini-skill.git
